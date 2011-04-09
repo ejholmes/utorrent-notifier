@@ -9,8 +9,6 @@ namespace uTorrentNotifier
     {
         public class TwitterConfig
         {
-            private string _Username = "";
-            private string _Password = "";
             private string _ConsumerKey = "";
             private string _ConsumerSecret = "";
             private string _Token = "";
